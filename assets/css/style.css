@@ -1,0 +1,69 @@
+.body {
+    background-image: url(https://i.pinimg.com/originals/7e/f7/af/7ef7afec8113fa43891f4077c4069221.jpg);
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica, sans-serif';
+    margin: 0%;
+}
+.content {
+    height: 960px;
+    width: 960px; 
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 25px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainheader {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    position: relative;
+    top: -10px;
+    width: 100%;
+}
+
+.name {
+    display: block;
+    background-color: #4aaaa5;
+    padding: 1%;
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+    position: relative;
+    margin-left: 20%;
+    height: 100px;
+    width: 300px;
+}
+
+.buttons {
+    position: absolute;
+    top: 50px;
+    right: -40px;
+    float: right;
+    padding-right: 10%;
+    display: block;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+#about {
+    margin: 50px;
+}
+
+#portfolio {
+    margin: 50px;
+}
+
+#contact {
+    margin: 50px
+}
+
+.h1 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color:  #4aaaa5;
+}
+
+.clearfix {
+    overflow: auto;
+}
