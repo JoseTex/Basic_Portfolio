@@ -1,0 +1,38 @@
+.form-box {
+    line-height: 30px;
+    color: lightslategrey
+}
+
+.box {
+    display: block;
+    width: 100%;
+    padding: auto;
+    font-size: 18px;
+    line-height: 15px;
+    color: black;
+    background-color: white;
+    background-clip: padding-box;
+    border: 1px solid grey;
+}
+
+.word-box {
+    display: block;
+    width: 69%;
+    padding: 150px;
+    font-size: 18px;
+    line-height: 30px;
+    color: black;
+    background-color: white;
+    background-clip: padding-box;
+    border: 1px solid grey;
+}
+
+.submit {
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin: 15px;
+
+}
